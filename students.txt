@@ -1,0 +1,10 @@
+1 AP24110010084 5.00
+1234 Rohan 5.00
+1 cd 0.00
+1 "/Users/rohangjs/Desktop/srms/" 0.00
+1 && 0.00
+1 gcc 0.00
+1 main.c 0.00
+1 -o 0.00
+1 main 0.00
+1 && 0.00
